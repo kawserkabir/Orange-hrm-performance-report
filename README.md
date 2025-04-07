@@ -9,5 +9,10 @@ Testing Tool (JMeter, Gatling, LoadRunner, etc.):
 . Gatling
 . LoadRunner
 # orange hrm performance report
+
 file:///E:/Soft/apache-jmeter-5.6.3/bin/orange%20hrm%20performance%20report/index.html
+
 # Test report
+![image](https://github.com/user-attachments/assets/186189e8-a8b1-4b0d-b193-4f969d1d8497)
+
+
