@@ -1,0 +1,56 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1744023692354,2124,login,200,OK,Thread Group 1-2,text,true,,4948,538,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,2115,0,1705
+1744023692263,2215,login,200,OK,Thread Group 1-1,text,true,,4948,538,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,2205,0,1790
+1744023692745,1733,login,200,OK,Thread Group 1-4,text,true,,4960,538,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1723,0,1315
+1744023692936,1542,login,200,OK,Thread Group 1-5,text,true,,4963,538,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1532,0,1119
+1744023692550,1958,login,200,OK,Thread Group 1-3,text,true,,4966,538,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1958,0,1511
+1744023722073,704,validate,200,OK,Thread Group 1-1,text,true,,6970,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,340,0,0
+1744023722073,341,validate-0,302,Found,Thread Group 1-1,text,true,,1979,816,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,340,0,0
+1744023722427,350,validate-1,200,OK,Thread Group 1-1,text,true,,4991,633,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,350,0,0
+1744023722075,712,validate,200,OK,Thread Group 1-5,text,true,,6995,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,357,0,0
+1744023722075,357,validate-0,302,Found,Thread Group 1-5,text,true,,1979,816,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,357,0,0
+1744023722433,354,validate-1,200,OK,Thread Group 1-5,text,true,,5016,633,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,354,0,0
+1744023722076,726,validate,200,OK,Thread Group 1-2,text,true,,6996,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,356,0,0
+1744023722076,356,validate-0,302,Found,Thread Group 1-2,text,true,,1979,816,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,356,0,0
+1744023722433,369,validate-1,200,OK,Thread Group 1-2,text,true,,5017,633,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,369,0,0
+1744023722077,739,validate,200,OK,Thread Group 1-4,text,true,,6979,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,363,0,0
+1744023722077,363,validate-0,302,Found,Thread Group 1-4,text,true,,1979,816,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,363,0,0
+1744023722441,375,validate-1,200,OK,Thread Group 1-4,text,true,,5000,633,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,375,0,0
+1744023722091,749,validate,200,OK,Thread Group 1-3,text,true,,6982,1449,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,376,0,0
+1744023722091,376,validate-0,302,Found,Thread Group 1-3,text,true,,1979,816,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,376,0,0
+1744023722467,373,validate-1,200,OK,Thread Group 1-3,text,true,,5003,633,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,373,0,0
+1744023736468,677,viewAdminModule,200,OK,Thread Group 1-1,text,true,,6835,1179,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,328,0,0
+1744023736468,328,viewAdminModule-0,302,Found,Thread Group 1-1,text,true,,1979,595,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewAdminModule,328,0,0
+1744023736798,347,viewAdminModule-1,200,OK,Thread Group 1-1,text,true,,4856,584,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,347,0,0
+1744023736471,699,viewAdminModule,200,OK,Thread Group 1-5,text,true,,6836,1179,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,337,0,0
+1744023736471,337,viewAdminModule-0,302,Found,Thread Group 1-5,text,true,,1979,595,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewAdminModule,337,0,0
+1744023736809,361,viewAdminModule-1,200,OK,Thread Group 1-5,text,true,,4857,584,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,361,0,0
+1744023736483,695,viewAdminModule,200,OK,Thread Group 1-2,text,true,,6835,1179,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,347,0,0
+1744023736483,348,viewAdminModule-0,302,Found,Thread Group 1-2,text,true,,1979,595,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewAdminModule,347,0,0
+1744023736831,347,viewAdminModule-1,200,OK,Thread Group 1-2,text,true,,4856,584,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,347,0,0
+1744023736497,703,viewAdminModule,200,OK,Thread Group 1-4,text,true,,6844,1179,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,352,0,0
+1744023736497,352,viewAdminModule-0,302,Found,Thread Group 1-4,text,true,,1979,595,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewAdminModule,352,0,0
+1744023736850,350,viewAdminModule-1,200,OK,Thread Group 1-4,text,true,,4865,584,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,349,0,0
+1744023736520,711,viewAdminModule,200,OK,Thread Group 1-3,text,true,,6843,1179,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,353,0,0
+1744023736520,353,viewAdminModule-0,302,Found,Thread Group 1-3,text,true,,1979,595,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewAdminModule,353,0,0
+1744023736873,358,viewAdminModule-1,200,OK,Thread Group 1-3,text,true,,4864,584,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,358,0,0
+1744023758547,1236,logout,200,OK,Thread Group 1-4,text,true,,6862,1169,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,881,0,515
+1744023758547,882,logout-0,302,Found,Thread Group 1-4,text,true,,1979,585,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,881,0,515
+1744023759430,353,logout-1,200,OK,Thread Group 1-4,text,true,,4883,584,5,5,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,352,0,0
+1744023692743,4411,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,25645,4335,5,5,null,3319,62632,1830
+1744023758497,1508,logout,200,OK,Thread Group 1-1,text,true,,6851,1169,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1055,0,580
+1744023758497,1055,logout-0,302,Found,Thread Group 1-1,text,true,,1979,585,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,1055,0,580
+1744023759554,451,logout-1,200,OK,Thread Group 1-1,text,true,,4872,584,4,4,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,451,0,0
+1744023692155,5104,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,25604,4335,4,4,null,3928,62748,2370
+1744023758517,1496,logout,200,OK,Thread Group 1-5,text,true,,6837,1169,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1030,0,562
+1744023758517,1030,logout-0,302,Found,Thread Group 1-5,text,true,,1979,585,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,1030,0,562
+1744023759549,464,logout-1,200,OK,Thread Group 1-5,text,true,,4858,584,3,3,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,463,0,0
+1744023692935,4449,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,25631,4335,3,3,null,3256,62632,1681
+1744023758526,1516,logout,200,OK,Thread Group 1-2,text,true,,6856,1169,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1027,0,538
+1744023758526,1027,logout-0,302,Found,Thread Group 1-2,text,true,,1979,585,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,1027,0,538
+1744023759556,486,logout-1,200,OK,Thread Group 1-2,text,true,,4877,584,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,486,0,0
+1744023692346,5061,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,25635,4335,2,2,null,3845,62638,2243
+1744023758581,1522,logout,200,OK,Thread Group 1-3,text,true,,6845,1169,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,988,0,522
+1744023758581,988,logout-0,302,Found,Thread Group 1-3,text,true,,1979,585,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,988,0,522
+1744023759570,533,logout-1,200,OK,Thread Group 1-3,text,true,,4866,584,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,533,0,0
+1744023692544,4940,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,25636,4335,1,1,null,3675,62622,2033
